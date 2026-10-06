@@ -1,8 +1,8 @@
-## Hi there 👋
+
 
 <!--
 **gitSS-md89/gitSS-md89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 # Hi there, I'm Soumyaranjan Sahu 👋
 
 ### Technical Lead | HMI & GUI Expert | C++ & Qt/QML Specialist
